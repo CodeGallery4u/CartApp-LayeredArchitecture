@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CartApp.Src", "DA\CartApp.S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CartApp.Test", "CartApp.Test\CartApp.Test.csproj", "{ABAC8353-8C84-44A5-BCC9-2294A34BFA47}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F53401FD-6BCD-4FE7-8D0E-BABE5A9A8945}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{221C24F7-5EDF-49FA-A9CE-E60100F46ADA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +28,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3435EC4A-1ECE-4724-92D5-6989A5E4D1A7} = {F53401FD-6BCD-4FE7-8D0E-BABE5A9A8945}
+		{ABAC8353-8C84-44A5-BCC9-2294A34BFA47} = {221C24F7-5EDF-49FA-A9CE-E60100F46ADA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7FA8906B-9A0D-4271-8519-5727FCE909FB}
