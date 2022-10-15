@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CartApp", "DA\CartApp.csproj", "{3435EC4A-1ECE-4724-92D5-6989A5E4D1A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CartApp.Src", "DA\CartApp.Src.csproj", "{3435EC4A-1ECE-4724-92D5-6989A5E4D1A7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CartApp.Test", "CartApp.Test\CartApp.Test.csproj", "{ABAC8353-8C84-44A5-BCC9-2294A34BFA47}"
 EndProject
