@@ -10,4 +10,4 @@ Test cases coverd all the scenarios supported by the CartApp.
 ## Verify the functionality by running all test cases.
 
 
-##Thank you.
+Thank you.
