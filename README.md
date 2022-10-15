@@ -9,5 +9,9 @@ Test cases coverd all the scenarios supported by the CartApp.
 
 ## Verify the functionality by running all test cases.
 
+## Prerequisites.
+Visual Studio 2022 
+C# Preview Feature Shuould Enabled.
+
 
 Thank you.
