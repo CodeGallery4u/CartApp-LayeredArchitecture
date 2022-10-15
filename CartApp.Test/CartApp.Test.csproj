@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DA\CartApp.Src.csproj" />
+    <ProjectReference Include="..\CartApp.Src\CartApp.Src.csproj" />
   </ItemGroup>
 
 </Project>
